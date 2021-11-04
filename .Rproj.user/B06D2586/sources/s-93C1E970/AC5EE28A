@@ -3,7 +3,7 @@
     "path": "D:/Github/Red/config.yaml",
     "project_path": "config.yaml",
     "type": "yaml",
-    "hash": "3751549408",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1636022776442.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "33,31",
-        "scrollLine": "21"
+        "cursorPosition": "19,26",
+        "scrollLine": "12"
     },
     "folds": "",
     "lastKnownWriteTime": 1636022816,
